@@ -132,6 +132,9 @@ plugins:
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
+gem:
+  jekyll-scholar
+
 scholar:
 
   last_name: Keith
