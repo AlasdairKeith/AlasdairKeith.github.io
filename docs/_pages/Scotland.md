@@ -17,6 +17,6 @@ I am a proud member of Clan Keith, whose chief was historically known as the Ear
 
 <img src="/assets/img/both.jpg" alt="drawing" width="750"/>
 
-As well as having a Scottish identity, I have a British one too. I am proud, in particular, of my Great-Grandad, Donald McLaren, who was a Spitfire pilot who paid the ultimate sacrifice during World War II.
+As well as having a Scottish identity, I have a British one too. In particular, I am proud of my Great-Grandad, Donald McLaren, who was a Spitfire pilot who paid the ultimate sacrifice during World War II.
 
 <img src="/assets/img/mclaren.jpg" alt="drawing" width="750"/>
