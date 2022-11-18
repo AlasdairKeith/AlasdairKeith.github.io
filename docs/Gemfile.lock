@@ -282,7 +282,7 @@ DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-email-protect
-  jekyll-feed (~> 0.12)
+  jekyll-feed
   jekyll-github-metadata
   jekyll-paginate-v2
   jekyll-scholar
