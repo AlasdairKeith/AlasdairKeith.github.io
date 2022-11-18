@@ -13,11 +13,9 @@ Note: Four papers are due to be published soon, in two of which I will be first 
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
 
-[//]: # ({% bibliography -f papers -q @*[year={{y}}]* %})
 
 
