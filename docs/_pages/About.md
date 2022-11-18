@@ -1,7 +1,7 @@
 ---
 layout: About
 title: About
-permalink: /About/
+permalink:
 description: Emory Biochemist, Scottish Highlander
 
 profile:
