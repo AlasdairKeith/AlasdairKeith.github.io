@@ -17,6 +17,14 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-scholar"
+  gem "kramdown-parser-gfm"
+  gem 'jekyll'
+  gem 'jekyll-email-protect'
+  gem 'jekyll-github-metadata'
+  gem 'jekyll-paginate-v2'
+  gem 'jekyll-twitter-plugin'
+  gem 'jemoji'
+  gem 'unicode_utils'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
