@@ -141,4 +141,4 @@ This paper introduces Tite-Seq, an extension of Sort-Seq which runs over a numbe
 [The SARS-CoV-2 nucleocapsid phosphoprotein forms mutually exclusive condensates with RNA and the membrane-associated M protein](https://www.nature.com/articles/s41467-020-20768-y) by Lu et al.<br>
 _Journal: Nature Comm., Year: 2021, Volume: 12, Pages: 1-15_<br>
 _DOI: 10.1038/s41467-020-20768-y_<br>
-Paper which considers the role of the nucleocapsid protein in SARS-CoV-2 during the virus' life cycles. It is thought that it can bind to RNA and the membrane, M, protein during different points of this cycle. We are interested to perhaps run DMS on this somewhat novel N-M interaction.
+A paper which considers the role of the nucleocapsid protein in SARS-CoV-2 during the virus' life cycles. It is thought that it can bind to RNA and the membrane, M, protein during different points of this cycle. We are interested to perhaps run DMS on this somewhat novel N-M interaction.
