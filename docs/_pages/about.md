@@ -7,10 +7,6 @@ description: Emory Biochemist, Scottish Highlander
 profile:
   align: right
   image: kilt_and_horse.jpg
-#  address: >
-#    <p>310 Norris Hall</p>
-#    <p>495 Old Turner St</p>
-#    <p>Blacksburg, VA 24061</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
