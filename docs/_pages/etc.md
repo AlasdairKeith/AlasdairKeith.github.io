@@ -11,7 +11,7 @@ I take an amateur, non-dogmatic interest in religion. I grew up as an atheist bu
 
 <font size="6">Taekwon-Do</font>
 
-In the UK, I enjoyed Taekwon-Do, the Korean martial art, where I primarily trained under Grandmaster John Williamson. I am a 1st Dan Black Belt, and was graded by First Grandmaster Rhee Ki Ha. I was a member of the United Kingdom Taekwon-Do Association (UKTA), which is affiliated to the International Taekwon-Do Federation (ITF). Unfortunately, I have not been able to track down any ITF schools in the Atlanta area. Should anybody know of any, please do get in touch, as I'd like to resume training in the USA if possible.
+In the UK, I enjoyed Taekwon-Do, the Korean martial art, where I primarily trained under Grandmaster John Williamson IX. I am a 1st Dan Black Belt, and was graded by First Grandmaster Rhee Ki Ha. I was a member of the United Kingdom Taekwon-Do Association (UKTA), which is affiliated to the International Taekwon-Do Federation (ITF). Unfortunately, I have not been able to track down any ITF schools in the Atlanta area. Should anybody know of any, please do get in touch, as I'd like to resume training in the USA if possible.
 
 <figure>
 <img src="/assets/img/taekwondo_pic.jpg" alt="drawing" width="750"/>
