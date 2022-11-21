@@ -22,4 +22,4 @@ Though exiled to America (a country which I've fallen in love with), I remain a 
 
 I have a deep interest in the interplay between science and religion, and some of my theological musings can be found in the etc tab. I can often be found at [Decatur First United Methodist Church](https://decaturfirst.org/) on a Sunday with my partner, Allison.
 
-{% include counter.html %}
+# {% include counter.html %}
