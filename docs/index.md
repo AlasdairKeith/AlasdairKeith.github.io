@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: About
 title: About
 permalink:
 description: Emory Biochemist, Scottish Highlander
