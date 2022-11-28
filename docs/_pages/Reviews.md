@@ -147,3 +147,8 @@ A paper which considers the role of the nucleocapsid protein in SARS-CoV-2 durin
 _Journal: Science Advances, Year: 2021, Volume: 7, Pages: 1-9_<br>
 _DOI: 10.1126/sciadv.abf1738_<br>
 Important paper which discusses FACS, and particularly gating, in a lot of detail. It is similar to the Starr paper discusses above, but uses human rather than yeast cells. Furthermore, rather than testing antibodies, this study uses a ACE2-like decoy, known as sACE22.v2.4. This decoy binds more strongly to the spike protein than does ordinary ACE2. It further shows that S escape mutations for this decoy tend to have also decrease affinity to ACE2, thereby 'coming at th cost of diminished infectivity and virulence.' I found the phrasing of the following very helpful to aid a certain gating strategy: 'Transcripts in the sorted cells were Illumina sequenced and compared to the naive plasmid library to determine an enrichment ratio for each amino acid substitution. Mutations in S that express and bind ACE2 tightly are selectively enriched in the ACE2-high sort; mutations that express but have reduced ACE2 binding are selectively enriched in the ACE2-low sort; and mutations that are poorly expressed are depleted from both sorted populations.'
+
+[An antibody-escape estimator for mutations to the SARS-CoV-2 receptor-binding domain](https://academic.oup.com/ve/article/8/1/veac021/6549895) by Greaney, Starrr and Bloom.<br>
+_Journal: Virus Evolution, Year: 2022, Volume: 8, Pages: 1-8_<br>
+_DOI: 10.1093/ve/veac021_<br>
+Bloom lab paper which discusses the combinatorial issues which arise when considering multiple mutations at once. Some very useful links to their interactive maps.
