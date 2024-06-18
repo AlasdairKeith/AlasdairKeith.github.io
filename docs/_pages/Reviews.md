@@ -5,7 +5,7 @@ permalink: /Reviews/
 nav: true
 ---
 
-I enjoy reading both scientific and non-scientific works. Below, in no particular order, are three lists, two of which contain contain (very!) short reviews, one of interesting scientific books I've read, and the other for non-scientific works I am passionate about or have had a profound impact on my life. I also include a complete list of the scientific papers I have read since joining Emory, mainly for my own benefit, so that I don't forget what I have and have not read!
+I enjoy reading both scientific and non-scientific works. Below, in no particular order, are three lists, two of which contain contain (very!) short reviews, one of interesting scientific books I've read, and the other for non-scientific works I am passionate about or have had a profound impact on my life. I also include a very short, selected list of the scientific papers I have read since joining Emory, mainly for my own benefit, so that I don't forget what I have and have not read!
 
 <font size="6">Scientific Books</font>
 
