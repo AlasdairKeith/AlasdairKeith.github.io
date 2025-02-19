@@ -1,9 +1,18 @@
 ---
 layout: page
-title: Papers
+title: Publications
 permalink: /publications/
 nav: true
 ---
+
+<font size="6"> Cover Images</font> 
+
+<figure>
+<img src="/assets/img/March2025Cover.pdf" alt="drawing" width="750"/>
+<figcaption>Left: An image of a disconnectivity graph from our *Protein Science* paper was selected as the March 2025 issue cover. I was delighted as it showed that disconnectivity graphs, a useful means for visualizing the energy landscapes of complex systems, are becoming more widely recognized within the biomolecular community.</figcaption>
+</figure>
+
+<font size="6"> Papers</font> 
 
 [Investigation into the effect of phenylalanine gating on anaerobic haem breakdown using the energy landscape approach](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.5243)<br>
 Authors: **Alasdair D. Keith**, Elizabeth B. Sawyer, Desmond C.Y. Choy, James L. Cole, Cheng Shang, George S. Biggs, Oskar James Klein, Paul D. Brear, David J. Wales and Paul D. Barker<br>
