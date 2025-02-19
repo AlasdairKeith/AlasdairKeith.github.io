@@ -8,7 +8,7 @@ nav: true
 <font size="6"> Cover Images</font> 
 
 <figure>
-<img src="/assets/img/March2025Cover.pdf" alt="drawing" width="750"/>
+<img src="/assets/pdf/March2025Cover.pdf" alt="drawing" width="750"/>
 <figcaption>Left: An image of a disconnectivity graph from our *Protein Science* paper was selected as the March 2025 issue cover. I was delighted as it showed that disconnectivity graphs, a useful means for visualizing the energy landscapes of complex systems, are becoming more widely recognized within the biomolecular community.</figcaption>
 </figure>
 
