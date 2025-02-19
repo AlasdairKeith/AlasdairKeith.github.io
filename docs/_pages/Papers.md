@@ -5,7 +5,7 @@ permalink: /publications/
 nav: true
 ---
 
-<font size="6"> Cover Images</font> 
+<font size="6"> Journal Covers</font> 
 
 <figure>
 <img src="/assets/pdf/March2025Cover.pdf" alt="drawing" width="750"/>
