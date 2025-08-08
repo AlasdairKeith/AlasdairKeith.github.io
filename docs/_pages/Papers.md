@@ -14,6 +14,18 @@ nav: true
 
 <font size="6"> Papers</font> 
 
+[The mechanistic basis for interprotomer deglycosylation of antibodies by corynebacterial IgG-specific endoglycosidases](https://www.nature.com/articles/s41467-025-60986-w)<br>
+Authors: Diego E. Sastre, Stylianos Bournazos, Maros Huliciak, Barbara Ann C. Grace, E. Josephine Boder, Jonathan Du, Nazneen Sultana, Tala Azzam, Trenton J. Brown, Maria W. Flowers, Pete Lollar, Ting Xu, Tatiana A. Chernova, **Alasdair D. Keith**, Meredith Keen, Abigail Saltzman, Ana Martinez Gascueña, Beatriz Trastoy, Marcelo E. Guerin, Filipp Frank, Eric A. Ortlund, Jeffrey V. Ravetch and Eric J. Sundberg<br>
+Journal: Nature Communications<br>
+Volume: 16<br>
+Year: 2025
+
+[Mapping affinity and allostery in human IgG antibody Fc region-Fc γ receptor interactions](https://www.biorxiv.org/content/10.1101/2025.03.28.645945v1.abstract)<br>
+Authors: **Alasdair D. Keith**, Ting Xu, Tatiana A. Chernova, Meredith M. Keen, Marek Bogacz, Marko Nedeljković, Maria Flowers, Trenton Brown, Filipp Frank, Eric A. Ortlund, and Eric J. Sundberg<br>
+Journal: bioRxiv<br>
+Volume: N/A<br>
+Year: 2025
+
 [Investigation into the effect of phenylalanine gating on anaerobic haem breakdown using the energy landscape approach](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.5243)<br>
 Authors: **Alasdair D. Keith**, Elizabeth B. Sawyer, Desmond C.Y. Choy, James L. Cole, Cheng Shang, George S. Biggs, Oskar James Klein, Paul D. Brear, David J. Wales and Paul D. Barker<br>
 Journal: Protein Science<br>
