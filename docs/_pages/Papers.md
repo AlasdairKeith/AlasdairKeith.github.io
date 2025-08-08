@@ -22,6 +22,7 @@ Year: 2025
 
 [Mapping affinity and allostery in human IgG antibody Fc region-Fc γ receptor interactions](https://www.biorxiv.org/content/10.1101/2025.03.28.645945v1.abstract)<br>
 Authors: **Alasdair D. Keith**, Ting Xu, Tatiana A. Chernova, Meredith M. Keen, Marek Bogacz, Marko Nedeljković, Maria Flowers, Trenton Brown, Filipp Frank, Eric A. Ortlund, and Eric J. Sundberg<br>
+_(Keith, Xu and Chernova co-first authors)_<br>
 Journal: bioRxiv<br>
 Volume: N/A<br>
 Year: 2025

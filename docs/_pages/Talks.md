@@ -5,7 +5,7 @@ title: Talks
 nav: true
 ---
 
-Title: High-Throughput Mutational Mapping of IgG Fc
+Title: High-Throughput Mutational Mapping of IgG Fc<br>
 _Authors: Keith, Alasdair D._<br>
 _Conference: Emory Vaccine Center Seminar Series_<br>
 _Location: Atlanta, GA, USA_<br>
