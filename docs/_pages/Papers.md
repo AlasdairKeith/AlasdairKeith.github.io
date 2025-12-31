@@ -12,7 +12,7 @@ nav: true
 <figcaption>An image of a disconnectivity graph from our Protein Science paper was selected as the March 2025 issue cover. I was delighted as it showed that disconnectivity graphs, a useful means for visualizing the energy landscapes of complex systems, are becoming more widely recognized within the biomolecular community.</figcaption>
 </figure>
 
-<font size="6"> Papers</font>
+<font size="6"> Papers</font><br>
 <font size="5"> Science</font> 
 
 [The mechanistic basis for interprotomer deglycosylation of antibodies by corynebacterial IgG-specific endoglycosidases](https://www.nature.com/articles/s41467-025-60986-w)<br>
