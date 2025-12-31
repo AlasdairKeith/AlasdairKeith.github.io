@@ -12,7 +12,8 @@ nav: true
 <figcaption>An image of a disconnectivity graph from our Protein Science paper was selected as the March 2025 issue cover. I was delighted as it showed that disconnectivity graphs, a useful means for visualizing the energy landscapes of complex systems, are becoming more widely recognized within the biomolecular community.</figcaption>
 </figure>
 
-<font size="6"> Papers</font> 
+<font size="6"> Papers</font>
+<font size="5"> Science</font> 
 
 [The mechanistic basis for interprotomer deglycosylation of antibodies by corynebacterial IgG-specific endoglycosidases](https://www.nature.com/articles/s41467-025-60986-w)<br>
 Authors: Diego E. Sastre, Stylianos Bournazos, Maros Huliciak, Barbara Ann C. Grace, E. Josephine Boder, Jonathan Du, Nazneen Sultana, Tala Azzam, Trenton J. Brown, Maria W. Flowers, Pete Lollar, Ting Xu, Tatiana A. Chernova, **Alasdair D. Keith**, Meredith Keen, Abigail Saltzman, Ana Martinez Gascueña, Beatriz Trastoy, Marcelo E. Guerin, Filipp Frank, Eric A. Ortlund, Jeffrey V. Ravetch and Eric J. Sundberg<br>
@@ -63,3 +64,26 @@ Authors: Alexander Schoth, **Alasdair D. Keith**, Katharina Landfester and Rafae
 Journal: RSC Advances<br>
 Volume: 6<br>
 Year: 2016<br>
+
+<font size="5"> Masonry</font>
+
+[The Craft and Witchcraft: The Origin of Anti-Masonry and Persecution by the Church in Mid-Seventeenth Century Scotland](https://freemasonry.org/)<br>
+Authors: **Alasdair D. Keith**<br>
+Journal: Philalethes: The Journal of Masonic Research and Letters<br>
+Volume: 78<br>
+Year: 2025
+
+<font size="6"> Paper/Presentation Abstracts</font>
+
+Mapping affinity and allostery of human IgG antibody Fc region interactions with endoglycosidases, and comparison of fucosylated/afucosylated Fc region interactions with activating and inhibitory Fc γ Receptors<br>
+Authors: **Alasdair Keith**, Ting Xu, Tatiana Chernova, Meredith Keen, Marek Bogacz, Filipp Frank, Diego Sastre, Eric Sundberg and Eric Ortlund<br>
+Journal: Journal of Biological Chemistry<br>
+Volume: 301<br>
+Year: 2025
+
+Investigation into cationic ammonia borane dehydrogenation pathways including quantum tunneling considerations<br>
+Authors: **Alasdair D. Keith**, Darren Bellshaw, Ramon Hernandez-Lamoneda and Maciej Gutowski<br>
+Journal: Abstracts of Papers of the American Chemical Society<br>
+Volume: 255<br>
+Year: 2018
+
