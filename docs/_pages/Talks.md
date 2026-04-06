@@ -5,6 +5,12 @@ title: Talks
 nav: true
 ---
 
+Title: Predicting Protein Domain Stability with ProteinMPNN, ThermoMPNN and RosettaDDG<br>
+_Authors: Keith, Alasdair D._<br>
+_Conference: BDCI Therapeutic Advancement Computational Working Group_<br>
+_Location: Atlanta, GA, USA_<br>
+_Year: 2025_
+
 Title: High-Throughput Mutational Mapping of IgG Fc<br>
 _Authors: Keith, Alasdair D._<br>
 _Conference: Emory Vaccine Center Seminar Series_<br>

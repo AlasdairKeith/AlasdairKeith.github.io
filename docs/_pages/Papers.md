@@ -13,7 +13,7 @@ nav: true
 </figure>
 
 <font size="6"> Papers</font><br>
-<font size="5"> Science</font> 
+<font size="5"> Scientific Papers</font> 
 
 [The mechanistic basis for interprotomer deglycosylation of antibodies by corynebacterial IgG-specific endoglycosidases](https://www.nature.com/articles/s41467-025-60986-w)<br>
 Authors: Diego E. Sastre, Stylianos Bournazos, Maros Huliciak, Barbara Ann C. Grace, E. Josephine Boder, Jonathan Du, Nazneen Sultana, Tala Azzam, Trenton J. Brown, Maria W. Flowers, Pete Lollar, Ting Xu, Tatiana A. Chernova, **Alasdair D. Keith**, Meredith Keen, Abigail Saltzman, Ana Martinez Gascueña, Beatriz Trastoy, Marcelo E. Guerin, Filipp Frank, Eric A. Ortlund, Jeffrey V. Ravetch and Eric J. Sundberg<br>
@@ -53,19 +53,13 @@ Journal: Physical Chemistry Chemical Physics<br>
 Volume: 26<br>
 Year: 2024
 
-Investigation into cationic ammonia borane dehydrogenation pathways including quantum tunneling considerations<br>
-Authors: **Alasdair D. Keith**, Darren Bellshaw, Ramon Hernandez-Lamoneda and Maciej Gutowski<br>
-Journal: Abstracts of Papers of the American Chemical Society<br>
-Volume: 255<br>
-Year: 2018
-
 [Silanization as a versatile functionalization method for the synthesis of polymer/magnetite hybrid nanoparticles with controlled structure](https://pubs.rsc.org/en/content/articlelanding/2016/ra/c6ra08896a)<br>
 Authors: Alexander Schoth, **Alasdair D. Keith**, Katharina Landfester and Rafael Munoz-Espi<br>
 Journal: RSC Advances<br>
 Volume: 6<br>
 Year: 2016<br>
 
-<font size="5"> Masonry</font>
+<font size="5"> Masonic Papers</font>
 
 [The Craft and Witchcraft: The Origin of Anti-Masonry and Persecution by the Church in Mid-Seventeenth Century Scotland](https://freemasonry.org/)<br>
 Authors: **Alasdair D. Keith**<br>
