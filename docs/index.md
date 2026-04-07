@@ -23,5 +23,3 @@ I have undertaken a clinical observership at the [Atlanta VA Medical Center](htt
 Though exiled to America (a country which I've fallen in love with), I remain a passionate Scot. I follow Scottish football and British politics avidly. When away from the lab, I like to swim, read books (on basically anything), train at Taekwon-do and quite literally travel the road less traveled. I also wrote a novel when I was 15, which can be found [here](https://www.amazon.co.uk/Man-Who-Fooled-Scotland/dp/1500522368).
 
 I have a deep interest in the interplay between science and religion, and some of my theological musings can be found in the etc tab. I can often be found at [Decatur First United Methodist Church](https://decaturfirst.org/) on a Sunday with my partner, Allison.
-
-# {% include counter.html %}
