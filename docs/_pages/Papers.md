@@ -15,6 +15,12 @@ nav: true
 <font size="6"> Papers</font><br>
 <font size="5"> Scientific Papers</font> 
 
+[Deep mutational scanning of SARS-CoV-2 nucleocapsid reveals regional stability patterns](https://onlinelibrary.wiley.com/doi/10.1002/pro.70706)<br>
+Authors: **Alasdair D. Keith**, Meredith M. Keen, Filipp Frank, Eric A. Ortlund<br>
+Journal: Protein Science<br>
+Volume: 35<br>
+Year: 2026
+
 [The mechanistic basis for interprotomer deglycosylation of antibodies by corynebacterial IgG-specific endoglycosidases](https://www.nature.com/articles/s41467-025-60986-w)<br>
 Authors: Diego E. Sastre, Stylianos Bournazos, Maros Huliciak, Barbara Ann C. Grace, E. Josephine Boder, Jonathan Du, Nazneen Sultana, Tala Azzam, Trenton J. Brown, Maria W. Flowers, Pete Lollar, Ting Xu, Tatiana A. Chernova, **Alasdair D. Keith**, Meredith Keen, Abigail Saltzman, Ana Martinez Gascueña, Beatriz Trastoy, Marcelo E. Guerin, Filipp Frank, Eric A. Ortlund, Jeffrey V. Ravetch and Eric J. Sundberg<br>
 Journal: Nature Communications<br>
