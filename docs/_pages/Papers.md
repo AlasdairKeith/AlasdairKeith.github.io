@@ -15,6 +15,12 @@ nav: true
 <font size="6"> Papers</font><br>
 <font size="5"> Scientific Papers</font> 
 
+[Variant escape site mapping and characterization of SARS-CoV-2 nucleocapsid rapid antigen test antibodies](https://journals.asm.org/doi/10.1128/jvi.01001-26)<br>
+Authors: **Alasdair D. Keith**, Meredith M. Keen, Filipp Frank, Wilbur A. Lam, Morgan Greenleaf, Eric A. Ortlund<br>
+Journal: Journal of Virology<br>
+Volume: Online ahead of print<br>
+Year: 2026
+
 [Deep mutational scanning of SARS-CoV-2 nucleocapsid reveals regional stability patterns](https://onlinelibrary.wiley.com/doi/10.1002/pro.70706)<br>
 Authors: **Alasdair D. Keith**, Meredith M. Keen, Filipp Frank, Eric A. Ortlund<br>
 Journal: Protein Science<br>
@@ -65,6 +71,14 @@ Journal: RSC Advances<br>
 Volume: 6<br>
 Year: 2016<br>
 
+<font size="5"> Policy/Ethics Papers</font>
+
+[Targeted medicine, targeting immigrants: is it time they qualified as a vulnerable research population?](https://www.tandfonline.com/doi/full/10.1080/20502877.2026.2717791)<br>
+Authors: **Alasdair D. Keith**<br>
+Journal: The New Bioethics<br>
+Volume: Online ahead of print<br>
+Year: 2026
+
 <font size="5"> Masonic Papers</font>
 
 [The Craft and Witchcraft: The Origin of Anti-Masonry and Persecution by the Church in Mid-Seventeenth Century Scotland](https://freemasonry.org/)<br>
@@ -72,6 +86,13 @@ Authors: **Alasdair D. Keith**<br>
 Journal: Philalethes: The Journal of Masonic Research and Letters<br>
 Volume: 78<br>
 Year: 2025
+
+<font size="6"> Online Publications/Blog Posts</font>
+
+[Biosecurity in the Age of AI](https://georgiactsa.org/research/regulatory-knowledge-support/blog-ai-biosecurity.html)<br>
+Authors: **Alasdair D. Keith**<br>
+Platform: Georgia Clinical & Translational Science Alliance (CTSA) AI Regulation Blog<br>
+Year: 2026
 
 <font size="6"> Paper/Presentation Abstracts</font>
 
